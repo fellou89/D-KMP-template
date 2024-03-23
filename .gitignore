@@ -11,6 +11,7 @@
 .DS_Store
 UserInterfaceState.xcuserstate
 /build
+composeApp/build
 /buildSrc/build
 /shared/build
 /androidApp/build
