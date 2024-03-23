@@ -1,9 +1,9 @@
-package eu.baroncelli.dkmpsample
+package us.fellou89.dkmptemplate
 
 import android.app.Application
 import androidx.lifecycle.*
-import eu.baroncelli.dkmpsample.shared.viewmodel.DKMPViewModel
-import eu.baroncelli.dkmpsample.shared.viewmodel.getAndroidInstance
+import us.fellou89.dkmptemplate.shared.viewmodel.DKMPViewModel
+import us.fellou89.dkmptemplate.shared.viewmodel.getAndroidInstance
 
 class DKMPApp : Application() {
 

@@ -1,9 +1,9 @@
-package eu.baroncelli.dkmpsample
+package us.fellou89.dkmptemplate
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import eu.baroncelli.dkmpsample.styling.MyMaterialTheme
+import us.fellou89.dkmptemplate.styling.MyMaterialTheme
 
 
 class MainActivity : ComponentActivity() {

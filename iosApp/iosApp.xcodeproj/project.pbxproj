@@ -491,7 +491,7 @@
 					shared,
 				);
 				PLIST_FILE_OUTPUT_FORMAT = "same-as-input";
-				PRODUCT_BUNDLE_IDENTIFIER = eu.baroncelli.dkmpsample.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = us.fellou89.dkmptemplate.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRINGS_FILE_OUTPUT_ENCODING = "UTF-16";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -541,7 +541,7 @@
 					shared,
 				);
 				PLIST_FILE_OUTPUT_FORMAT = "same-as-input";
-				PRODUCT_BUNDLE_IDENTIFIER = eu.baroncelli.dkmpsample.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = us.fellou89.dkmptemplate.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRINGS_FILE_OUTPUT_ENCODING = "UTF-16";
 				SWIFT_EMIT_LOC_STRINGS = YES;

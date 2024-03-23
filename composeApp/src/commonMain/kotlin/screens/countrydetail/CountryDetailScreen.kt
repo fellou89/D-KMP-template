@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.screens.countrydetail
+package us.fellou89.dkmptemplate.screens.countrydetail
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.MaterialTheme
@@ -7,8 +7,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import eu.baroncelli.dkmpsample.screens.LoadingScreen
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrydetail.CountryDetailState
+import us.fellou89.dkmptemplate.screens.LoadingScreen
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrydetail.CountryDetailState
 
 @Composable
 fun CountryDetailScreen(

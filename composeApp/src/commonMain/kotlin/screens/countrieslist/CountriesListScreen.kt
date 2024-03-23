@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.screens.countrieslist
+package us.fellou89.dkmptemplate.screens.countrieslist
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -12,8 +12,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import eu.baroncelli.dkmpsample.screens.LoadingScreen
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrieslist.CountriesListState
+import us.fellou89.dkmptemplate.screens.LoadingScreen
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrieslist.CountriesListState
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable

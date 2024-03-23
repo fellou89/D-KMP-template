@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.screens
+package us.fellou89.dkmptemplate.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.CircularProgressIndicator

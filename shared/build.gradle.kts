@@ -1,6 +1,6 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-group = "eu.baroncelli.dkmpsample"
+group = "us.fellou89.dkmptemplate"
 version = "1.0-SNAPSHOT"
 
 plugins {
@@ -26,7 +26,7 @@ kotlin {
     ).forEach {
         it.binaries.framework {
             baseName = "shared"
-            binaryOption("bundleId", "eu.baroncelli.dkmpsample.shared")
+            binaryOption("bundleId", "us.fellou89.dkmptemplate.shared")
         }
     }
     sourceSets {
@@ -76,7 +76,7 @@ kotlin {
 }
 
 android {
-    namespace = "eu.baroncelli.dkmpsample.shared"
+    namespace = "us.fellou89.dkmptemplate.shared"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17

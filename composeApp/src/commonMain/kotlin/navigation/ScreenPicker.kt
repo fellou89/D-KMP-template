@@ -1,21 +1,21 @@
-package eu.baroncelli.dkmpsample.navigation
+package us.fellou89.dkmptemplate.navigation
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import eu.baroncelli.dkmpsample.screens.countrydetail.CountryDetailScreen
-import eu.baroncelli.dkmpsample.screens.countrieslist.CountriesListScreen
-import eu.baroncelli.dkmpsample.screens.countrieslist.CountriesListTwoPaneDefaultDetail
-import eu.baroncelli.dkmpsample.shared.viewmodel.Navigation
-import eu.baroncelli.dkmpsample.shared.viewmodel.ScreenIdentifier
-import eu.baroncelli.dkmpsample.shared.viewmodel.ScreenParams
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.Screen
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.Screen.*
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrieslist.CountriesListState
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrieslist.selectFavorite
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrydetail.CountryDetailParams
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrydetail.CountryDetailState
+import us.fellou89.dkmptemplate.screens.countrydetail.CountryDetailScreen
+import us.fellou89.dkmptemplate.screens.countrieslist.CountriesListScreen
+import us.fellou89.dkmptemplate.screens.countrieslist.CountriesListTwoPaneDefaultDetail
+import us.fellou89.dkmptemplate.shared.viewmodel.Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.ScreenIdentifier
+import us.fellou89.dkmptemplate.shared.viewmodel.ScreenParams
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.Screen
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.Screen.*
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrieslist.CountriesListState
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrieslist.selectFavorite
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrydetail.CountryDetailParams
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrydetail.CountryDetailState
 
 
 @Composable

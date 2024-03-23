@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.styling
+package us.fellou89.dkmptemplate.styling
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Shapes

@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.navigation.bars
+package us.fellou89.dkmptemplate.navigation.bars
 
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable

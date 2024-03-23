@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.shared
+package us.fellou89.dkmptemplate.shared
 
 import platform.Foundation.NSLog
 

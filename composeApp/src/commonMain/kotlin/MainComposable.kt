@@ -1,8 +1,8 @@
-package eu.baroncelli.dkmpsample
+package us.fellou89.dkmptemplate
 
 import androidx.compose.runtime.Composable
-import eu.baroncelli.dkmpsample.navigation.Router
-import eu.baroncelli.dkmpsample.shared.viewmodel.DKMPViewModel
+import us.fellou89.dkmptemplate.navigation.Router
+import us.fellou89.dkmptemplate.shared.viewmodel.DKMPViewModel
 
 @Composable
 fun MainComposable(model: DKMPViewModel) {

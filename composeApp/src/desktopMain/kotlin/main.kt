@@ -2,10 +2,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
 import androidx.compose.ui.window.rememberWindowState
-import eu.baroncelli.dkmpsample.MainComposable
-import eu.baroncelli.dkmpsample.styling.MyMaterialTheme
-import eu.baroncelli.dkmpsample.shared.viewmodel.DKMPViewModel
-import eu.baroncelli.dkmpsample.shared.viewmodel.getDesktopInstance
+import us.fellou89.dkmptemplate.MainComposable
+import us.fellou89.dkmptemplate.styling.MyMaterialTheme
+import us.fellou89.dkmptemplate.shared.viewmodel.DKMPViewModel
+import us.fellou89.dkmptemplate.shared.viewmodel.getDesktopInstance
 
 
 fun main() = application {

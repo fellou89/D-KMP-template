@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.screens.countrieslist
+package us.fellou89.dkmptemplate.screens.countrieslist
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

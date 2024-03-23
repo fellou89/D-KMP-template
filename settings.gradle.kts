@@ -17,7 +17,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "D-KMP-sample"
+rootProject.name = "D-KMP-template"
 
 
 include(":composeApp")

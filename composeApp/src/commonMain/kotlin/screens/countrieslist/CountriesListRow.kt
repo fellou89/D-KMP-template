@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.screens.countrieslist
+package us.fellou89.dkmptemplate.screens.countrieslist
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.countrieslist.CountriesListItem
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.countrieslist.CountriesListItem
 
 @Composable
 fun CountriesListRow(

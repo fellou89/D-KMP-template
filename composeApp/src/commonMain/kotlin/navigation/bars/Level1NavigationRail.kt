@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.navigation.bars
+package us.fellou89.dkmptemplate.navigation.bars
 
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -9,9 +9,9 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.sp
-import eu.baroncelli.dkmpsample.shared.viewmodel.Navigation
-import eu.baroncelli.dkmpsample.shared.viewmodel.ScreenIdentifier
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.Level1Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.ScreenIdentifier
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.Level1Navigation
 
 
 // this is the left vertical navigation bar for 2-Pane visualization

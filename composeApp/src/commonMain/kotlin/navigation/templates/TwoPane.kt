@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.navigation.templates
+package us.fellou89.dkmptemplate.navigation.templates
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Scaffold
@@ -7,12 +7,12 @@ import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.saveable.SaveableStateHolder
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import eu.baroncelli.dkmpsample.navigation.*
-import eu.baroncelli.dkmpsample.navigation.bars.Level1NavigationRail
-import eu.baroncelli.dkmpsample.navigation.bars.TopBar
-import eu.baroncelli.dkmpsample.shared.viewmodel.Navigation
-import eu.baroncelli.dkmpsample.shared.viewmodel.NavigationState
-import eu.baroncelli.dkmpsample.shared.viewmodel.ScreenIdentifier
+import us.fellou89.dkmptemplate.navigation.*
+import us.fellou89.dkmptemplate.navigation.bars.Level1NavigationRail
+import us.fellou89.dkmptemplate.navigation.bars.TopBar
+import us.fellou89.dkmptemplate.shared.viewmodel.Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.NavigationState
+import us.fellou89.dkmptemplate.shared.viewmodel.ScreenIdentifier
 
 @Composable
 fun Navigation.TwoPane(

@@ -1,6 +1,6 @@
 import org.jetbrains.compose.desktop.application.dsl.TargetFormat
 
-group = "eu.baroncelli.dkmpsample"
+group = "us.fellou89.dkmptemplate"
 version = "1.0-SNAPSHOT"
 
 plugins {
@@ -48,7 +48,7 @@ kotlin {
 }
 
 android {
-    namespace = "eu.baroncelli.dkmpsample"
+    namespace = "us.fellou89.dkmptemplate"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")
@@ -59,7 +59,7 @@ android {
         isCoreLibraryDesugaringEnabled = true
     }
     defaultConfig {
-        applicationId = "eu.baroncelli.dkmpsample"
+        applicationId = "us.fellou89.dkmptemplate"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
@@ -82,7 +82,7 @@ compose.desktop {
         mainClass = "MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "eu.baroncelli.dkmpsample"
+            packageName = "us.fellou89.dkmptemplate"
             packageVersion = "1.0.0"
         }
     }

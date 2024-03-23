@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.navigation
+package us.fellou89.dkmptemplate.navigation
 
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.runtime.Composable
@@ -7,11 +7,11 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveableStateHolder
 import androidx.compose.ui.unit.dp
-import eu.baroncelli.dkmpsample.navigation.templates.OnePane
-import eu.baroncelli.dkmpsample.navigation.templates.TwoPane
-import eu.baroncelli.dkmpsample.shared.viewmodel.*
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.Level1Navigation
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.Screen
+import us.fellou89.dkmptemplate.navigation.templates.OnePane
+import us.fellou89.dkmptemplate.navigation.templates.TwoPane
+import us.fellou89.dkmptemplate.shared.viewmodel.*
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.Level1Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.Screen
 
 
 

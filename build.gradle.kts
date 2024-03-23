@@ -1,4 +1,4 @@
-group = "eu.baroncelli.dkmpsample"
+group = "us.fellou89.dkmptemplate"
 version = "1.0-SNAPSHOT"
 
 plugins {

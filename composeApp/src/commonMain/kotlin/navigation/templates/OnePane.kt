@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.navigation.templates
+package us.fellou89.dkmptemplate.navigation.templates
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
@@ -7,11 +7,11 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.saveable.SaveableStateHolder
 import androidx.compose.ui.Modifier
-import eu.baroncelli.dkmpsample.navigation.*
-import eu.baroncelli.dkmpsample.navigation.bars.Level1BottomBar
-import eu.baroncelli.dkmpsample.navigation.bars.TopBar
-import eu.baroncelli.dkmpsample.shared.viewmodel.Navigation
-import eu.baroncelli.dkmpsample.shared.viewmodel.NavigationState
+import us.fellou89.dkmptemplate.navigation.*
+import us.fellou89.dkmptemplate.navigation.bars.Level1BottomBar
+import us.fellou89.dkmptemplate.navigation.bars.TopBar
+import us.fellou89.dkmptemplate.shared.viewmodel.Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.NavigationState
 
 @Composable
 fun Navigation.OnePane(

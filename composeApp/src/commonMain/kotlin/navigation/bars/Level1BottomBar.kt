@@ -1,4 +1,4 @@
-package eu.baroncelli.dkmpsample.navigation.bars
+package us.fellou89.dkmptemplate.navigation.bars
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Menu
@@ -6,9 +6,9 @@ import androidx.compose.material.icons.filled.Star
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.unit.sp
-import eu.baroncelli.dkmpsample.shared.viewmodel.Navigation
-import eu.baroncelli.dkmpsample.shared.viewmodel.ScreenIdentifier
-import eu.baroncelli.dkmpsample.shared.viewmodel.screens.Level1Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.Navigation
+import us.fellou89.dkmptemplate.shared.viewmodel.ScreenIdentifier
+import us.fellou89.dkmptemplate.shared.viewmodel.screens.Level1Navigation
 
 
 // this is the bottom horizontal navigation bar for 1-Pane visualization
